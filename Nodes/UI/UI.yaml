@@ -101,9 +101,4 @@ Children:
     - Name: Text
       Type: BaseDataVariableType
       DataType: LocalizedText
-      Value: {"NamespaceIndex":-1,"LocaleId":"","Text":""}
-      Children:
-      - Name: DynamicLink
-        Type: DynamicLink
-        DataType: NodePath
-        Value: "{NodeId:ns=7;g=7bc014da-0b91-b8f4-a220-aebc850dc53f}"
+      Value: {"LocaleId":"en-US","Text":"Hello"}
